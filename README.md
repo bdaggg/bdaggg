@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm bdaggg</h1>
+<h1 align="center">Hi 👋, I'm Bülent</h1>
 <h3 align="center">A passionate Cyber Security from Turkey</h3>
 
 - 🌱 I’m currently learning **Cyber Security, Linux(Kali)**
