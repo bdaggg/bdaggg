@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Cyber Security, Linux(Kali)**
 
-- 💬 Ask me about **Pentesting,SQL Enjection**
+- 💬 Ask me about **Pentesting,SQL Injection**
 
 - ⚡ Fun fact **i am a camper**
 
