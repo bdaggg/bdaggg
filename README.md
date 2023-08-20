@@ -1,4 +1,4 @@
-[![MasterHead](https://blog.signaturit.com/hs-fs/hubfs/1_BLOG_FILES/Gif%20Norse%20Worldwide%20Cyber%20attacks%20map.gif?width=661&height=338&name=Gif%20Norse%20Worldwide%20Cyber%20attacks%20map.gif)
+[![MasterHead](http://blog.signaturit.com/hs-fs/hubfs/1_BLOG_FILES/Gif%20Norse%20Worldwide%20Cyber%20attacks%20map.gif?width=661&height=338&name=Gif%20Norse%20Worldwide%20Cyber%20attacks%20map.gif)
 <h1 align="center">Hi 👋, I'm Bülent</h1>
 <h3 align="center">Junior Penetration Tester</h3>
 
