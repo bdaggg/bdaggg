@@ -1,4 +1,4 @@
-![unnamed](https://github.com/bdaggg/important-information-about-cyber/assets/110742864/716ad1ff-8bea-45a1-b932-c75c5b0cf5ac)
+![QikQ](https://github.com/bdaggg/important-information-about-cyber/assets/110742864/4a5e5148-7a0d-4c28-8359-f296f8dbf847)
 
 <h1 align="center">Hi 👋, I'm Bülent</h1>
 <h3 align="center">Junior Penetration Tester</h3>
