@@ -65,5 +65,5 @@
 
 
 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=bdaggg&show_icons=true&locale=en" alt="bdaggg"/> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bdaggg&" alt="bdaggg"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=bdaggg&show_icons=true&locale=en" alt="bdaggg"/><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bdaggg&" alt="bdaggg"/>
 
