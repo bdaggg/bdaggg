@@ -3,9 +3,9 @@
 <h2> Junior Penetration Tester 
 <p align="left"> <img  src="https://komarev.com/ghpvc/?username=bdaggg&label=Profile%20views&color=0e75b6&style=flat" alt="bdaggg" /> </p></h2>
 
-- 🔭 I’m currently working on *Cyber Security*
+- 🔭 I’m currently working on *Cyber Security and secure software*
 
-- 💬 Ask me about *system security, Linux, exploit, Pentesting, Web Security, OS Security*
+- 💬 Ask me about *system security, Linux, exploit, Pentesting, Web Security, OS Security, API Security, Backend Systems*
 
 - ⚡ Fun fact *I am a Camper*
 
