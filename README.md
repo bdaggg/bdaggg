@@ -1,6 +1,6 @@
 <img width="400" align="right" src="https://github.com/bdaggg/important-information-about-cyber/assets/110742864/4a5e5148-7a0d-4c28-8359-f296f8dbf847" />
 <h1> Hi 👋, I'm Bülent </h1>
-<h2>Penetration Tester And API Developer
+<h2>Penetration Tester And API Developer</h2>
 <p align="left"> <img  src="https://komarev.com/ghpvc/?username=bdaggg&label=Profile%20views&color=0e75b6&style=flat" alt="bdaggg" /> </p></h2>
 
 - 🔭 I’m currently working on *Cyber Security and secure software*
