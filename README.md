@@ -79,8 +79,8 @@ Description: Another project showcasing your backend development and security te
 
 ## Connect with Me
 
-- 💼 **LinkedIn**: [Bülent's LinkedIn](https://www.linkedin.com/in/bdaggg)
-- 📬 **Email**: [bulent@example.com](mailto:bulent@example.com)
+- 💼 **LinkedIn**: [Bülent's LinkedIn]([https://www.linkedin.com/in/bdaggg](https://www.linkedin.com/in/b%C3%BClent-d-052952246/))
+- 📬 **Email**: [bulent@example.com](mailto:bulentdag@bulentdag.tr)
 
 ---
 
