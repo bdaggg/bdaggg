@@ -63,19 +63,6 @@
 
 ---
 
-## Projects & Contributions
-
-### 🌟 **[My Awesome Project](https://github.com/bdaggg/awesome-project)**  
-Description: A brief description of your amazing project.
-
-- 🔧 **Tech Stack:** Go, PostgreSQL, Docker
-- 🚀 **Key Features:** Secure Authentication, Real-time Data Processing
-- ⭐ **Contributions:** Open-source contributions to cybersecurity tools.
-
-### 🌟 **[Another Project](https://github.com/bdaggg/another-project)**  
-Description: Another project showcasing your backend development and security testing skills.
-
----
 
 ## Connect with Me
 
