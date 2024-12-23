@@ -80,7 +80,7 @@ Description: Another project showcasing your backend development and security te
 ## Connect with Me
 
 - 💼 **LinkedIn**: [Bülent's LinkedIn](https://www.linkedin.com/in/b%C3%BClent-d-052952246/)
-- 📬 **Email**: [bulent@example.com](bulentdag@bulentdag.tr)
+- 📬 **Email**: [bulent@bulentdag.tr](bulentdag@bulentdag.tr)
 ---
 
 ### **“Security is not a product, but a process.”** - Bruce Schneier
